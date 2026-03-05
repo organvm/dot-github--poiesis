@@ -128,3 +128,7 @@ Include:
 ## License
 
 By contributing, you agree that your contributions will be licensed under the project's MIT License.
+
+## Documentation Standards
+
+- README structure and depth should follow [README standards](README_STANDARDS.md)
