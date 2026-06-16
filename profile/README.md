@@ -23,15 +23,15 @@ ORGAN-II is the art-making engine of the [organvm system](https://github.com/met
 
 The work here spans the full creative pipeline: from low-level audio synthesis and rendering engines, through SDKs and client libraries, to complete performance platforms and audience-facing installations. Every repository is documented as a portfolio piece — written for grant reviewers, collaborators, and hiring managers, not just developers.
 
-## The Omni-Dromenon Engine
+## The organvm-ii-poiesis Engine
 
-At the center of ORGAN-II sits **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** — the Omni-Dromenon Engine. This is the canonical monorepo that consolidates ORGAN-II's real-time performance system: audience voting, generative state machines, choreographic routing, and multi-modal output. It is the flagship repository and the reference implementation for how theory becomes performance.
+At the center of ORGAN-II sits **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** — the organvm-ii-poiesis Engine. This is the canonical monorepo that consolidates ORGAN-II's real-time performance system: audience voting, generative state machines, choreographic routing, and multi-modal output. It is the flagship repository and the reference implementation for how theory becomes performance.
 
 ## Repositories
 
 | Repository | Description |
 |------------|-------------|
-| **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** ★ | Omni-Dromenon Engine — canonical monorepo for real-time performance systems |
+| **[metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master)** ★ | organvm-ii-poiesis Engine — canonical monorepo for real-time performance systems |
 | **[a-mavs-olevm](https://github.com/organvm-ii-poiesis/a-mavs-olevm)** ★ | Personal artistic portfolio site (etceter4.com) — living temple of art, sound, and words |
 | [a-i-council--coliseum](https://github.com/organvm-ii-poiesis/a-i-council--coliseum) | Decentralized live-streaming platform where AI agents debate with viewer crypto participation |
 | [core-engine](https://github.com/organvm-ii-poiesis/core-engine) | Central generative art engine — rendering pipeline and state management |
