@@ -22,7 +22,7 @@ We will acknowledge receipt within 48 hours and provide a detailed response with
 
 ## Security Considerations
 
-The Omni-Dromenon Engine handles real-time audience connections. Key security areas:
+ORGAN-II repositories include real-time audience, performance, and creative-system code. Key security areas:
 
 ### 1. WebSocket Connections
 - Rate limiting on connection attempts

@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
   - name: 💬 Discussions
-    url: https://github.com/orgs/omni-dromenon-engine/discussions
+    url: https://github.com/organvm-ii-poiesis
     about: Ask questions, share ideas, and connect with the community
   - name: 📖 Documentation
-    url: https://github.com/omni-dromenon-engine/documentation
+    url: https://github.com/organvm-ii-poiesis/docs
     about: Check guides, API reference, and tutorials before opening an issue
   - name: 🎭 Artist Collaboration
-    url: https://github.com/orgs/omni-dromenon-engine/discussions/categories/artist-collaborations
+    url: https://github.com/organvm-ii-poiesis/artist-toolkit-and-templates
     about: Propose artistic collaborations and performance projects

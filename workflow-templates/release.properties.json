@@ -1,5 +1,5 @@
 {
-  "name": "Omni-Dromenon Release",
+  "name": "ORGAN-II Release",
   "description": "Automated release workflow triggered by version tags. Creates GitHub releases with changelog generation.",
   "iconName": "octicon tag",
   "categories": [
