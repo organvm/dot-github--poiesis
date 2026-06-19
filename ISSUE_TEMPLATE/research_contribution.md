@@ -38,7 +38,7 @@ Describe your approach:
 - **Analysis methods:** (e.g., statistical analysis, thematic coding, performance metrics)
 - **IRB/Ethics approval:** Required / Obtained / Not applicable
 
-## Relevance to Omni-Dromenon Engine
+## Relevance to ORGAN-II: Poiesis
 
 How does this research contribute to or benefit the project?
 

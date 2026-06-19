@@ -1,6 +1,6 @@
 {
-  "name": "Omni-Dromenon CI",
-  "description": "Standard CI workflow for Omni-Dromenon Engine repositories. Includes linting, testing across Node.js versions, building, and security auditing.",
+  "name": "ORGAN-II CI",
+  "description": "Standard CI workflow for ORGAN-II: Poiesis repositories. Includes linting, testing across Node.js versions, building, and security auditing.",
   "iconName": "octicon workflow",
   "categories": [
     "Node.js",

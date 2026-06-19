@@ -2,7 +2,7 @@
 
 ## Our Commitment
 
-The Omni-Dromenon Engine project is committed to providing a welcoming, inclusive environment for contributors of all backgrounds—technologists, artists, researchers, and performers alike.
+ORGAN-II: Poiesis is committed to providing a welcoming, inclusive environment for contributors of all backgrounds—technologists, artists, researchers, and performers alike.
 
 ## Standards
 

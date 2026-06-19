@@ -4,9 +4,9 @@
 
 | Resource | Use For |
 |----------|---------|
-| [Documentation](https://github.com/omni-dromenon-engine/documentation) | Guides, API reference, tutorials |
-| [Discussions](https://github.com/orgs/omni-dromenon-engine/discussions) | Questions, ideas, community |
-| [Issues](https://github.com/omni-dromenon-engine/core-engine/issues) | Bug reports, feature requests |
+| [ORGAN-II Docs](https://github.com/organvm-ii-poiesis/docs) | Guides, reference material, tutorials |
+| [Organization Repositories](https://github.com/organvm-ii-poiesis) | Project-specific source and issues |
+| [System Documentation](https://github.com/meta-organvm/organvm-corpvs-testamentvm) | Cross-organ governance and public process |
 
 ## Before Opening an Issue
 
@@ -35,7 +35,7 @@ The engine is designed to be genre-agnostic. Current implementations focus on mu
 
 ### Is this production-ready?
 
-Not yet. The project is in active development. Core functionality is validated but APIs may change.
+Some repositories are production-ready and others remain prototypes, skeletons, or design-only systems. Check the target repository's README and `seed.yaml` before depending on an API or deployment path.
 
 ## Response Times
 

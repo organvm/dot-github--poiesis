@@ -12,7 +12,13 @@ org: organvm-ii-poiesis
 metadata:
   implementation_status: PRODUCTION
   tier: infrastructure
-  promotion_status: CANDIDATE
-  last_validated: "2026-02-10"
+  promotion_status: PUBLIC_PROCESS
+  last_validated: "2026-06-18"
   generated: "2026-02-12"
   sprint: "AUTONOMY"
+  frozen_state: actually-live
+  activation_audit:
+    issue: "organvm-ii-poiesis/.github#6"
+    verdict: ship-now
+    shipped_test: "PASS - org profile README renders live at https://github.com/organvm-ii-poiesis"
+    report: "docs/reports/2026-06-18-activation-audit-ship-now.md"

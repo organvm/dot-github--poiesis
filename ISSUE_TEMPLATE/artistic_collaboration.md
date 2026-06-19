@@ -64,7 +64,7 @@ How does this collaboration embody:
 
 ## Resources & Support Needed
 
-What do you need from the Omni-Dromenon Engine project?
+What do you need from the ORGAN-II: Poiesis project?
 
 - [ ] Technical consultation
 - [ ] Development support

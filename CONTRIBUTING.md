@@ -1,4 +1,4 @@
-# Contributing to Omni-Dromenon Engine
+# Contributing to ORGAN-II: Poiesis
 
 Thank you for your interest in contributing. This guide covers technical contributions, documentation, and artistic collaborations.
 
@@ -9,7 +9,7 @@ Thank you for your interest in contributing. This guide covers technical contrib
 | Type | Description | Entry Point |
 |------|-------------|-------------|
 | **Code** | Features, bug fixes, optimizations | Pull requests |
-| **Documentation** | Guides, API docs, tutorials | `documentation` repo |
+| **Documentation** | Guides, API docs, tutorials | `docs` repo |
 | **Research** | Academic papers, studies, analysis | Issue with `research` label |
 | **Art** | Performance designs, genre modules | Issue with `artistic` label |
 | **Testing** | Bug reports, performance testing | Issues |
@@ -34,7 +34,7 @@ git --version   # >= 2.40.0
 
 ```bash
 # Clone the repository you're contributing to
-git clone https://github.com/omni-dromenon-engine/<repo-name>.git
+git clone https://github.com/organvm-ii-poiesis/<repo-name>.git
 cd <repo-name>
 
 # Install dependencies
@@ -120,8 +120,8 @@ Include:
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/orgs/omni-dromenon-engine/discussions)
-- Check existing issues and docs first
+- Open an issue in the relevant [ORGAN-II repository](https://github.com/organvm-ii-poiesis)
+- Check existing issues and the [ORGAN-II docs](https://github.com/organvm-ii-poiesis/docs) first
 
 ---
 
