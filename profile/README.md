@@ -83,3 +83,15 @@ The organvm system spans 81 repositories across 8 organizations, ~320K words of 
 ---
 
 <sub>ORGAN-II: Poiesis — 21 repositories, ~46K words of documentation · part of the [eight-organ creative-institutional system](https://github.com/meta-organvm) · maintained by [@4444j99](https://github.com/4444J99) · CONSOLIDATION-II Sprint 2026-02-12</sub>
+
+<!-- PORTFOLIO-HUB-START -->
+---
+
+<div align="center">
+
+**Explore the System**
+
+[Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [49 Essays](https://organvm-v-logos.github.io/public-process/) · [Knowledge Base](https://organvm-i-theoria.github.io/my-knowledge-base/) · [Consult](https://4444j99.github.io/portfolio/consult/)
+
+</div>
+<!-- PORTFOLIO-HUB-END -->
