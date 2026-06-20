@@ -23,13 +23,20 @@ jobs:
             exit 1
           fi
 
-      - name: Validate seed.yaml
+      - name: Validate YAML files
         run: |
-          if [ -f seed.yaml ]; then
-            python3 -c "import yaml; yaml.safe_load(open('seed.yaml'))" && echo "seed.yaml is valid YAML" || { echo "::error::seed.yaml is invalid YAML"; exit 1; }
-          else
-            echo "No seed.yaml (optional for this repo type)"
+          yaml_files=$(git ls-files '*.yml' '*.yaml')
+          if [ -z "$yaml_files" ]; then
+            echo "No YAML files found"
+            exit 0
           fi
+
+          printf '%s\n' "$yaml_files" | ruby -ryaml -e 'STDIN.each_line { |line| path = line.chomp; YAML.load_file(path); puts "#{path} is valid YAML" }'
+
+      - name: Lint GitHub Actions workflows
+        uses: docker://rhysd/actionlint:1.7.12
+        with:
+          args: -color
 
       - name: Secret scan
         run: |
