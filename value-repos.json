@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "description": "Repos promoted into the ranked value tier - discovered to hold concrete, build-out-worthy latent value.",
+  "ranked": [
+    {
+      "repo": "organvm/dot-github--poiesis",
+      "promoted": "2026-07-01",
+      "source": "auto-discovery",
+      "tier": "infrastructure",
+      "value": "Already-live ORGAN-II GitHub defaults membrane for public profile, community health, creative/research intake, PR templates, reusable workflows, dispatch events, and aesthetic policy.",
+      "first_task": "Add an org-defaults.manifest.json plus validation tests that enumerate every exported GitHub surface, parse every YAML/JSON template, assert required files exist, and emit a sync-ready report for ORGAN-IV cross-organ enforcement.",
+      "thesis": "DISCOVERY.md"
+    }
+  ]
+}
