@@ -1,0 +1,9 @@
+{
+  "name": "organvm-dot-github-poiesis",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/run-tests.mjs"
+  }
+}
